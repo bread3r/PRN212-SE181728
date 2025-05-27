@@ -1,0 +1,14 @@
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\bin\Debug\net9.0\OOP3_ExtensionMethod.exe
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\bin\Debug\net9.0\OOP3_ExtensionMethod.deps.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\bin\Debug\net9.0\OOP3_ExtensionMethod.runtimeconfig.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\bin\Debug\net9.0\OOP3_ExtensionMethod.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\bin\Debug\net9.0\OOP3_ExtensionMethod.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\OOP3_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\OOP3_ExtensionMethod.AssemblyInfoInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\OOP3_ExtensionMethod.AssemblyInfo.cs
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\OOP3_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\OOP3_ExtensionMethod.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\refint\OOP3_ExtensionMethod.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\OOP3_ExtensionMethod.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\OOP3_ExtensionMethod.genruntimeconfig.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\OOP3\obj\Debug\net9.0\ref\OOP3_ExtensionMethod.dll

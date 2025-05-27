@@ -1,0 +1,14 @@
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.exe
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.deps.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.runtimeconfig.json
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.AssemblyInfoInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.AssemblyInfo.cs
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.csproj.CoreCompileInputs.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\refint\RefAndOutSample.dll
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.pdb
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.genruntimeconfig.cache
+D:\FPTCN5\PRN212\Code\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\ref\RefAndOutSample.dll
