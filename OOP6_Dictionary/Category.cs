@@ -57,5 +57,35 @@ namespace OOP6_Dictionary
             return Products.Where(item => item.Value.Price >= min && item.Value.Price <= max)
                 .ToDictionary<int, Product>();
         }
+
+        //Sắp xếp sản phẩm theo đơn giá tăng dần
+        public Dictionary<int, Product> SortProductsByPrice()
+        {
+            return Products.OrderBy(item => item.Value.Price)
+                .ToDictionary<int, Product>();
+        }
+
+        public Dictionary<int, Product> SortComplex()
+        {
+            return Products
+                .OrderByDescending(item => item.Value.Quantity)
+                .OrderBy(item => item.Value.Price)
+                .ToDictionary<int, Product>();
+        }
+
+        public bool UpdateProduct(Product p)
+        {
+            if ( p == null)
+            {
+                return false; //nhập null không sửa
+            }
+            if (Products.ContainsKey(p.Id) == false)
+            {
+                return false; //không thấy không sửa
+            }
+            //cập nhật giá trị tại ô nhớ chứa p.Id
+            Products[p.Id] = p;
+            return true; //đánh dấu là sửa thành công 
+        }
     }
 }

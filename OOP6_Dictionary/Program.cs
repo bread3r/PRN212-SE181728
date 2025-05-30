@@ -57,3 +57,19 @@ foreach (KeyValuePair<int, Product> kvp in products_by_price)
     Product p = kvp.Value;
     Console.WriteLine(p);
 }
+
+Dictionary<int, Product> sorted_products = c1.SortProductsByPrice();
+Console.WriteLine("Danh sách các sản phẩm đã được sắp xếp theo giá tăng dần:");
+foreach (KeyValuePair<int, Product> kvp in sorted_products)
+{
+    Product p = kvp.Value;
+    Console.WriteLine(p);
+}
+
+Dictionary<int, Product> sorted_complex = c1.SortComplex();
+Console.WriteLine("Danh sách các sản phẩm đã được sắp xếp complex:");
+foreach (KeyValuePair<int, Product> kvp in sorted_complex)
+{
+    Product p = kvp.Value;
+    Console.WriteLine(p);
+}
