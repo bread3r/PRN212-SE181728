@@ -50,5 +50,12 @@ namespace OOP6_Dictionary
                 Console.WriteLine(p);
             }
         }
+
+        //Lọc các sản phẩm có giá từ min tới max
+        public Dictionary<int, Product> FilterProductsByPrice(double min, double max)
+        {
+            return Products.Where(item => item.Value.Price >= min && item.Value.Price <= max)
+                .ToDictionary<int, Product>();
+        }
     }
 }

@@ -46,3 +46,14 @@ Console.WriteLine("--Thông tin danh mục--");
 Console.WriteLine(c1);
 Console.WriteLine("--------------Danh sách sản phẩm--------------");
 c1.PrintAllProducts();
+
+double min_price = 10;
+double max_price = 20;
+Dictionary<int, Product> products_by_price = 
+    c1.FilterProductsByPrice(min_price, max_price);
+Console.WriteLine($"Danh sách sản phẩm có giá từ {min_price} đến {max_price}:");
+foreach (KeyValuePair<int, Product> kvp in products_by_price)
+{
+    Product p = kvp.Value;
+    Console.WriteLine(p);
+}
