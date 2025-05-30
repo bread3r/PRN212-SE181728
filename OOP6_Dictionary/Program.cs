@@ -73,3 +73,51 @@ foreach (KeyValuePair<int, Product> kvp in sorted_complex)
     Product p = kvp.Value;
     Console.WriteLine(p);
 }
+
+p5.Name = "Fanta";
+p5.Price = 80;
+p5.Quantity = 17;
+bool ret = c1.UpdateProduct(p5);
+Console.WriteLine("Sản phẩm sau khi update: ");
+c1.PrintAllProducts();
+
+int id = 5;
+ret = c1.RemoveProduct(id);
+if (ret == false)
+{
+    Console.WriteLine($"Không tìm thấy mã {id} để xóa");
+} else
+{
+    Console.WriteLine($"Đã xóa thành công sản phẩm có mã {id}");
+    Console.WriteLine("Sản phẩm sau khi xóa: ");
+    c1.PrintAllProducts();
+}
+
+int min = 10;
+int max = 20;
+c1.DeleteProduct(min, max);
+Console.WriteLine("Sau khi xóa các sản phẩm có giá từ min tới max");
+c1.PrintAllProducts();
+
+
+LinkedList<Category> categories = new LinkedList<Category>();
+categories.AddLast(c1);
+
+Category c2 = new Category();
+c2.Id = 2;
+c2.Name = "Bia - Beer";
+
+c2.AddProduct(new Product() { Id = 6, Name = "Tiger", Quantity = 10, Price = 30 });
+c2.AddProduct(new Product() { Id = 7, Name = "333", Quantity = 15, Price = 20 });
+c2.AddProduct(new Product() { Id = 8, Name = "Ken", Quantity = 24, Price = 40 });
+
+categories.AddFirst(c2);
+Console.WriteLine("-----Danh sách toàn bộ sản phâm theo danh mục-----");
+foreach (Category c in categories)
+{
+    Console.WriteLine(c);
+    Console.WriteLine("------------");
+    c.PrintAllProducts();
+    Console.WriteLine("------------");
+
+}

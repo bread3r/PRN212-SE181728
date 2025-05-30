@@ -54,7 +54,8 @@ namespace OOP6_Dictionary
         //Lọc các sản phẩm có giá từ min tới max
         public Dictionary<int, Product> FilterProductsByPrice(double min, double max)
         {
-            return Products.Where(item => item.Value.Price >= min && item.Value.Price <= max)
+            return Products
+                .Where(item => item.Value.Price >= min && item.Value.Price <= max)
                 .ToDictionary<int, Product>();
         }
 
@@ -87,5 +88,29 @@ namespace OOP6_Dictionary
             Products[p.Id] = p;
             return true; //đánh dấu là sửa thành công 
         }
+
+        public bool RemoveProduct(int id)
+        {
+            if (Products.ContainsKey(id) ==false)
+            {
+                return false; // không thấy không xóa
+            }
+            Products.Remove(id);
+            return true; //Đánh dấu là đã xóa
+        }
+
+        //Viết hàm xóa các sản phẩm có đơn giá từ min tới max 
+        public void DeleteProduct(double min, double max)
+        {
+            foreach (KeyValuePair<int, Product> kvp in Products)
+            {
+                Product p = kvp.Value;
+                if (p.Price >= min && p.Price <= max)
+                {
+                    RemoveProduct(p.Id);
+                }
+            }
+        }
+
     }
 }
