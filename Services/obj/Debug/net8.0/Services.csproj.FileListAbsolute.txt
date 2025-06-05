@@ -1,0 +1,5 @@
+D:\LAB1_PRN212-main\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\LAB1_PRN212-main\ProductManagementDemo\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB1_PRN212-main\ProductManagementDemo\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\LAB1_PRN212-main\ProductManagementDemo\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\LAB1_PRN212-main\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache

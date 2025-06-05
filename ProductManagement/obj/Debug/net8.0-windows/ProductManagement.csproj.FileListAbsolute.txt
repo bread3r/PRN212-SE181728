@@ -1,0 +1,6 @@
+D:\LAB1_PRN212-main\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.csproj.AssemblyReference.cache
+D:\LAB1_PRN212-main\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\LAB1_PRN212-main\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\LAB1_PRN212-main\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\App.g.cs
+D:\LAB1_PRN212-main\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.cache
+D:\LAB1_PRN212-main\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.lref

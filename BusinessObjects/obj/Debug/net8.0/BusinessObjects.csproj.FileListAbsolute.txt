@@ -1,0 +1,11 @@
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\LAB1_PRN212-main\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
